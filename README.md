@@ -8,4 +8,4 @@ I made this as a test project to learn how libGDX 3D API works. This may not be 
 - Poofable Clouds (3d particles)
 
 You can checkout some videos I made in this playlist. Not all of them are correct anymore though, but they capture the progress:
-https://www.youtube.com/playlist?list=PLxopoD46ZBSxSnebQupRSOnqUhbIV_mZd
+https://www.youtube.com/playlist?list=PLxopoD46ZBSzd_5DHchOWBGsg4luD6agC
